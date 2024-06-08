@@ -7,3 +7,5 @@ xamples
 .vscode
 fuzz/corpus
 fuzz/artifacts
+.devenv/
+.devenv.flake.nix
